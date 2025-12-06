@@ -1,6 +1,6 @@
 # p2p-chat
 Distributed P2P Chat System using Java Sockets
-Subject: P2P Chat System Submission - Group of 6 members 
+Subject: P2P Chat System Submission - Group of 5 members 
 
 Dear Professor,
 
@@ -8,12 +8,11 @@ Please find our P2P Chat System project at:
 GitHub Repository: https://github.com/Leena-debug/p2p-chat
 
 Group Members:
-1. Lyna ACHI - " Project Leader " 
+1. Lyna ACHI - " Project Leader + Peer.java " 
 2. Douniazed AMOURA - " Node.java "
 3. Sara ARIBI - " Receiver.java "
 4. Bouchra AROUCHE - " Peers.java "
-5. Israa BELBAKI - " Peer.java "
-6. Raouane BENHAMIMID - " Sender.java "
+5. Raouane BENHAMIMID - " Sender.java "
 
 Instructions to run:
 1. Clone repository: git clone https://github.com/Leena-debug/p2p-chat.git
